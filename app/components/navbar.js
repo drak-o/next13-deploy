@@ -1,5 +1,4 @@
 import '../globals.css';
-import FlyOutMenu from './FlyOutMenu';
 import {home, about, contact} from './navrouter';
 
 export default function NavBar() {
