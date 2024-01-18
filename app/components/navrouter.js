@@ -3,7 +3,7 @@ import { scroller } from 'react-scroll';
 
 function home() {
         scroller.scrollTo('firstPage', {
-            duration: 100,
+            duration: 400,
             delay: 0,
             smooth: 'easeInOutQuad',
             offset: 0
@@ -12,7 +12,7 @@ function home() {
 
 function about() {
     scroller.scrollTo('secondPage', {
-        duration: 100,
+        duration: 400,
         delay: 0,
         smooth: 'easeInOutQuad',
         offset: 0
@@ -21,7 +21,7 @@ function about() {
 
 function contact() {
     scroller.scrollTo('thirdPage', {
-        duration: 100,
+        duration: 400,
         delay: 0,
         smooth: 'easeInOutQuad',
         offset: 0
