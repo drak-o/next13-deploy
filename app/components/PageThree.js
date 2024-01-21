@@ -15,7 +15,7 @@ export default function PageThree() {
                     <div className='flex mx-5 mt-10 justify-between space-x-5 w-full max-w-md'>
                         <Link href="https://twitter.com/Eco_Swapp">
                             <img 
-                                src='/images/logo-black.png' 
+                                src='/images/logo-white.png' 
                                 alt='x-logo'
                                 className='h-20 w-auto'
                             />
