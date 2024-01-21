@@ -13,21 +13,21 @@ export default function PageThree() {
                     <h1 className='lg:text-6xl text-4xl font-bold'>Interested?</h1>
                     <h2 className='lg:text-2xl text-2xl'>Join us on social media</h2>
                     <div className='flex mx-5 mt-10 justify-between space-x-5 w-full max-w-md'>
-                        <Link href="https://twitter.com/Eco_Swapp">
+                        <Link href="https://twitter.com/Eco_Swapp" target=”_blank”>
                             <img 
                                 src='/images/logo-white.png' 
                                 alt='x-logo'
                                 className='h-20 w-auto'
                             />
                         </Link>
-                        <Link href="https://www.instagram.com/e.c.o_s.w.a.p/">
+                        <Link href="https://www.instagram.com/e.c.o_s.w.a.p/" target=”_blank”>
                             <img 
                                 src='/images/instagram.png' 
                                 alt='instagram-logo'
                                 className='h-20 w-auto'
                             />
                         </Link>
-                        <Link href="https://www.tiktok.com/@e.c.o_s.w.a.p">
+                        <Link href="https://www.tiktok.com/@e.c.o_s.w.a.p" target=”_blank”>
                             <img 
                                 src='/images/tik-tok.png' 
                                 alt='tiktok-logo'
