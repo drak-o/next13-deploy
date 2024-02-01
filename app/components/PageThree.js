@@ -17,23 +17,31 @@ export default function PageThree() {
                             <img 
                                 src='/images/logo-white.png' 
                                 alt='x-logo'
-                                className='h-20 w-auto'
+                                className='h-14 w-auto'
                             />
                         </a>
                         <a href="https://www.instagram.com/e.c.o_s.w.a.p/" target="_blank" rel="noopener noreferrer">
                             <img 
                                 src='/images/instagram.png' 
                                 alt='instagram-logo'
-                                className='h-20 w-auto'
+                                className='h-14 w-auto'
                             />
                         </a>
                         <a href="https://www.tiktok.com/@e.c.o_s.w.a.p" target="_blank" rel="noopener noreferrer">
                             <img 
                                 src='/images/tik-tok.png' 
                                 alt='tiktok-logo'
-                                className='h-20 w-auto'
+                                className='h-14 w-auto'
                             />
                         </a>
+                        <a href="mailto:swapeco@proton.me" target="_blank" rel="noopener noreferrer">
+                            <img 
+                                src='/images/mail.png' 
+                                alt='mail-logo'
+                                className='h-14 w-auto'
+                            />
+                        </a>
+
 
                     </div>
                 </div>
