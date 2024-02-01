@@ -12,8 +12,8 @@ export default function PageThree() {
                 <div className='lg:ml-0 flex flex-col justify-center items-center z-10'>
                     <h1 className='lg:text-6xl text-4xl font-bold'>Interested?</h1>
                     <h2 className='lg:text-2xl text-2xl'>Join us on social media</h2>
-                    <div className='flex mx-5 mt-10 justify-between space-x-5 w-full max-w-md'>
-                        <a href="https://twitter.com/Eco_Swapp" target="_blank" rel="noopener noreferrer">
+                    <div className='flex mx-5 mt-5 justify-between space-x-5 w-full max-w-md'>
+                        <a href="https://twitter.com/Eco_Swapp" target="_blank" rel="noopener noreferrer" >
                             <img 
                                 src='/images/logo-white.png' 
                                 alt='x-logo'
@@ -34,9 +34,6 @@ export default function PageThree() {
                                 className='h-20 w-auto'
                             />
                         </a>
-
-                        
-
 
                     </div>
                 </div>
